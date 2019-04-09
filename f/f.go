@@ -1,6 +1,6 @@
 package f
 
-// Version1 returns a representation of the current module version.
-func Version1() string {
-	return "v1.1.0"
+// Version returns a representation of the current module version.
+func Version() string {
+	return "v0.1.0"
 }
