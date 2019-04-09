@@ -1,4 +1,4 @@
-package a
+package e
 
 // Version1 returns a representation of the current module version.
 func Version1() string {
