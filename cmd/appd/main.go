@@ -7,8 +7,8 @@ import "github.com/daved/multimod/internal/c"
 
 func main() {
 	fns := []func() string{
-		a.Version,
-		b.Version,
+		a.Version1,
+		b.Version1,
 		c.ZeroOneZero,
 	}
 
